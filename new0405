@@ -1,12 +1,15 @@
 央视,#genre#
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-1,webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
 
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-2,webview://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
 
 CCTV-3,webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,webview://http://m.345iptv.com/?act=play&token=ca28d0abb279949ee03368a064522e10&tid=ys&id=3
+CCTV-3,webview://https://m.miguvideo.com/m/liveDetail/624878271?channelId=10010001005
 
 CCTV-4,webview://https://tv.cctv.com/live/cctv4/
 CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
