@@ -5,7 +5,7 @@ CCTV3,webview://https://tv.cctv.com/live/cctv3/
 CCTV4,webview://https://tv.cctv.com/live/cctv4/
 CCTV5,webview://https://tv.cctv.com/live/cctv5/
 CCTV5+,webview://https://tv.cctv.com/live/cctv5plus/
-CCTV6,webview://video://https://m.1905.com/m/cctv6/gzh/?home
+CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
 CCTV6,webview://https://tv.cctv.com/live/cctv6/
 CCTV7,webview://https://tv.cctv.com/live/cctv7/
 CCTV8,webview://https://tv.cctv.com/live/cctv8/
@@ -29,7 +29,7 @@ CCTV3,webview://https://yangshipin.cn/tv/home?pid=600001801
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
-CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
+
 CCTV7,webview://https://yangshipin.cn/tv/home?pid=600004092
 CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
 CCTV9,webview://https://yangshipin.cn/tv/home?pid=600004078
@@ -49,6 +49,7 @@ CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
+CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
@@ -178,7 +179,6 @@ CECTV-4国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
-南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
@@ -208,7 +208,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
 深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
 深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?id=7878
 深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
 
 香港,#genre#
@@ -249,8 +248,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 爱尔达体育2台,webview://http://m.345iptv.com/?act=play&token=6f6551349ba8db18c4c9e4e64622e094&tid=gt&id=80
 爱尔达体育3台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=81
 爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
-大爱一台,webview://http://m.345iptv.com/?act=play&token=ae9c099dcdc4fbe768981b01c1dbbf18&tid=gt&id=83
-大爱二台,webview://http://m.345iptv.com/?act=play&token=cdad72cc1644294
+
 
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
