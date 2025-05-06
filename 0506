@@ -5,6 +5,7 @@ CCTV3,webview://https://tv.cctv.com/live/cctv3/
 CCTV4,webview://https://tv.cctv.com/live/cctv4/
 CCTV5,webview://https://tv.cctv.com/live/cctv5/
 CCTV5+,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 CCTV6,webview://https://tv.cctv.com/live/cctv6/
 CCTV7,webview://https://tv.cctv.com/live/cctv7/
 CCTV8,webview://https://tv.cctv.com/live/cctv8/
@@ -48,7 +49,6 @@ CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
 CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
@@ -61,7 +61,7 @@ CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-CCTV16-4K,webview://https://yangshipin.cn/tv/home?pid=600099502
+CCTV16-4K,webview://https://www.yangshipin.cn/tv/home?pid=600099502
 
 CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
@@ -130,7 +130,6 @@ CECTV-4国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 黑龙江卫视,webview://https://www.hljtv.com/live/
 农林卫视,webview://http://live.snrtv.com/nl
 
-
 辽宁卫视,webview://https://www.xuexi.cn/xxqg.html?id=196d1fb7186845c8ab06945beb60f428
 北京卫视,webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
@@ -167,7 +166,7 @@ CECTV-4国际健康,webview://http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 
 
-广东,#genre#
+广东荔枝台,#genre#
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -189,6 +188,7 @@ GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 
+广州,#genre#
 广州新闻,webview://https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=688d3b2a3c444bda1e92b3c6f6f53923&txTime=19554f57c80
 广州综合,webview://https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=72c2b03f1958b8f81cb8f557e811b9b0&txTime=195550933b2
 广州法治,webview://https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=db2cf40a9fefa5d510ec3f2684d2dcfd&txTime=19554ff6892
@@ -201,8 +201,15 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 广州法治,webview://https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe
 南国都市,webview://https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
-
-
+深圳,#genre#
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
+深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
+深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
+深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
+深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
+深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?id=7878
+深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
 
 香港,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
@@ -248,7 +255,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 北京,#genre#
 北京卫视,webview://https://www.btime.com/btv/btvsy_index
 
-
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
@@ -258,7 +264,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 五星体育,webview://https://live.kankanews.com/huikan?id=10
 魔都眼,webview://https://live.kankanews.com/huikan?id=11
 新纪实,webview://https://live.kankanews.com/huikan?id=12
-
 
 湖南,#genre#
 湖南经视,webview://https://live.mgtv.com/?channelld=280
@@ -287,7 +292,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 郴州1,webview://https://www.ngcz.tv/folder83/folder86
 郴州2,webview://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
 
-
 河北,#genre#
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
@@ -311,7 +315,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
 宜春公共频道,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
 
-
 辽宁,#genre#
 大连新闻综合,webview://http://www.guangbomi.com/tv/ln/dltv1.html
 大连生活,webview://http://www.guangbomi.com/tv/ln/dltv2.html
@@ -320,11 +323,9 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 重庆,#genre#
 重庆新闻,webview://https://www.cbg.cn/web/list/4918/1.html?5DEFC70C1A4AOD5173881C62BD4ACAD0
 
-
 河南,#genre#
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
 郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
-
 
 吉林,#genre#
 吉林卫视,webview://https://www.jlntv.cn/tv
@@ -333,7 +334,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
 长春经济,webview://https://chinactv.com/live/1442880940893450241.html
 长春汽车频道,webview://https://chinactv.com/live/1442881026868293634.html
-
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -361,8 +361,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
 孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 
-
-
 江苏,#genre#
 江苏城市,webview://https://live.jstv.com/?channelId=535
 江苏综艺,webview://https://live.jstv.com/?channelId=556
@@ -381,27 +379,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 无锡移动,webview://https://live.wifiwx.com/m2/?page=live&id=494#/pkgA/pages/live/live?id=494
 张家港1,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=1&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
 张家港2,webview://http://jrwx.zjgonline.com.cn/ysz_share/share/index_share.html?contentType=tvlive&channelId=2&mmsurl=http://mms.zjgonline.com.cn:8080/mms4.5&token=lgijnojhrspoywsk
-
-
-深圳,#genre#
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
-深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
-深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳宜和购物,webview://https://www.sztv.com.cn/pindao/index.html?id=7878
-深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
-佛山顺德,webview://http://p.123tv.cn/p/gdfs.php?id=fssd
-佛山公共,webview://http://p.123tv.cn/p/gdfs.php?id=fsgg
-佛山影视,webview://http://p.123tv.cn/p/gdfs.php?id=fsys
-佛山公共,webview://http://p.123tv.cn/p/gdfs.php?id=fsgm
-佛山公共,webview://http://p.123tv.cn/p/gdfs.php?id=fsss
-佛山综合,webview://http://p.123tv.cn/p/gdfs.php?id=fszh
-佛山南海,webview://http://p.123tv.cn/p/gdfs.php?id=fsnh
-东莞新闻综合,webview://https://dgrtv.sun0769.com/index.php/online2/4
-东莞生活资讯,webview://https://dgrtv.sun0769.com/index.php/online2/5
-韶关,webview://https://www.sgmsw.cn/v/tv?spm=0.0.0.0.nRYAvk&id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 
 山东,#genre#
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
