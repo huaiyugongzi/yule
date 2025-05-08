@@ -1,4 +1,6 @@
 央视,#genre#
+CCTV101,webview://http://m.345iptv.com/?act=play&token=1c8561843af8d04ed1a379f5d5731def&tid=itv&id=7
+
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV2,webview://https://tv.cctv.com/live/cctv2/
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
