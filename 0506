@@ -114,7 +114,6 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
 山西卫视,webview://https://www.sxrtv.com/tv/
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml#
-延边卫视,webview://https://www.yb983.com/cys/index.html
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 山东卫视,webview://https://v.iqilu.com/live/sdtv/
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
@@ -213,8 +212,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 凤凰卫视中文台,webview://https://345iptv.com/?act=play&token=c80cba20d9f5c689aa1ea457a03d3420&tid=gt&id=1
 凤凰卫视资讯台,webview://https://345iptv.com/?act=play&token=be8e20acbf96cbaeedf4a05974da1004&tid=gt&id=2
 凤凰卫视香港台,webview://https://345iptv.com/?act=play&token=301120f25939085c3313bad63d7c207d&tid=gt&id=3
-凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
-NOW爆谷,webview://https://m2.iptv807.com/?act=play&token=6d3c1cadecf96e47eddf50eee68f6cf0&tid=gt&id=15
 翡翠台,webview://https://m.345iptv.com/?act=play&token=0414e51b425be184dc3efa0db53e6812&tid=gt&id=5
 无线新闻,webview://http://m.345iptv.com/?act=play&token=bc7918833f7de6b2829ad197ddc05e10&tid=gt&id=6
 TVBPlus,webview://http://m.345iptv.com/?act=play&token=806785b3e369da03a1bac892904a4ae9&tid=gt&id=8
@@ -248,10 +245,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 
 四川,#genre#
-四川卫视,webview://https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?
-四川新闻,webview://https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?
 四川科教频道,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
-四川乡村频道,webview://https://scxc.sctv.com/html/c0111/2024/04/09/1777534112104497154_share.html
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
@@ -259,36 +253,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 成都公共,webview://https://www.cditv.cn/show/4845-559.html
 成都少儿,webview://https://www.cditv.cn/show/4845-558.html
 蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
-简阳市广播电视台,webview://https://www.cditv.cn/show/4844-578.html
-彭州广播电视台,webview://https://www.cditv.cn/show/4844-576.html
-青白江融媒体中心,webview://https://www.cditv.cn/show/4844-584.html
-浦江电视台,webview://https://www.cditv.cn/show/4844-571.html
-大邑广播电视台,webview://https://www.cditv.cn/show/4844-572.html
-金堂电视台,webview://https://www.cditv.cn/show/4844-573.html
-邛崃电视台综合频道,webview://https://www.cditv.cn/show/4844-575.html
-郫都区广播电视台,webview://https://www.cditv.cn/show/4844-580.html
-双流区广播电视台,webview://https://www.cditv.cn/show/4844-581.html
-温江电视台,webview://https://www.cditv.cn/show/4844-582.html
-新都区广播电视台,webview://https://www.cditv.cn/show/4844-583.html
-成华有线电视,webview://https://www.cditv.cn/show/4844-586.html
-武侯电视,webview://https://www.cditv.cn/show/4844-587.html
-金牛区有线电视台,webview://https://www.cditv.cn/show/4844-588.html
-青羊区融媒体中心,webview://https://www.cditv.cn/show/4844-589.html
-锦江电视,webview://https://www.cditv.cn/show/4844-590.html
-高新电视台,webview://https://www.cditv.cn/show/4844-591.html
-泸州新闻综合,webview://https://www.luzhoubs.com/lztv1/index.html
-泸州科技教育,webview://https://www.luzhoubs.com/lztv3/index.html
-绵阳1,webview://http://www.myntv.cn/html/zb/mytv1.asp
-绵阳科教生活,webview://http://www.myntv.cn/html/zb/mytv2.asp
-广安1,webview://https://www.gatv.com.cn/Tv/details?id=10
-广安文旅乡村,webview://https://www.gatv.com.cn/Tv/details?id=9
-德阳1,webview://http://zb.scdytv.com/?name=xwpd
-德阳文旅科教,webview://http://zb.scdytv.com/?name=ggpd
-攀枝花1,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
-攀枝花文旅生活,webview://https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937486832656384
-内江1,webview://https://www.scnj.tv/bencandy.php?fid=43&id=972
-眉山综合,webview://https://www.scmstv.cn/web/folder88/folder89/folder91/
-眉山文旅乡村,webview://https://www.scmstv.cn/web/folder88/folder89/folder92/
 
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
@@ -374,6 +338,18 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 石家庄城市服务,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
 石家庄文化娱乐,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
 石家庄都市,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
+
+黑龙江,#genre#
+黑龙江卫视,webview://https://www.hljtv.com/live/folder418/
+黑龙江文体,webview://https://www.hljtv.com/live/folder423/
+黑龙江影视,webview://https://www.hljtv.com/live/folder425/
+黑龙江新闻法治,webview://https://www.hljtv.com/live/folder424/
+黑龙江都市,webview://https://www.hljtv.com/live/folder419/
+黑龙江农业科教,webview://https://www.hljtv.com/live/folder420/
+黑龙江少儿,webview://https://www.hljtv.com/live/folder422/
+哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
 
 江西,#genre#
 江西卫视,webview://https://www.jxntv.cn/live/#/
