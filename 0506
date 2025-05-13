@@ -246,6 +246,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 
 四川,#genre#
 四川科教频道,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
+乐山新闻,webview://http://www.lstv.org.cn/cms/tv/28
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
@@ -357,8 +358,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 南昌文旅,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 南昌新闻综合,webview://https://www.nctv.net.cn/live
-宜春综合,webview://https://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=610897459610271744
-宜春公共频道,webview://http://h5-yc.newsyc.com/front-cloudlive-manage-h5/index.html?id=636127231831396352
 
 河南,#genre#
 河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
@@ -368,8 +367,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 长春综合频道,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
-长春经济,webview://https://chinactv.com/live/1442880940893450241.html
-长春汽车频道,webview://https://chinactv.com/live/1442881026868293634.html
 
 青岛,#genre#
 青岛-1,webview://http://www.qtv.com.cn/live/tv/index.shtml
@@ -378,22 +375,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 青岛-4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
 青岛-5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛-6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-威海新闻综合,webview://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-威海都市生活,webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-威海海洋,webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-山东教育,webview://https://www.sdetv.com.cn/edu/pc/live/index.html
-济宁电视台,webview://https://www.jnnews.tv/app/tv/76
-济宁2,webview://https://www.jnnews.tv/app/tv/152
-济宁3,webview://https://www.jnnews.tv/app/tv/74
-潍坊1,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-潍坊2,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-潍坊3,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-潍坊4,webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-威海1,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-威海2,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-威海3,webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
-泰安1,webview://http://www.taianxinwen.com/tatv/contents/113/1.html
-泰安2,webview://http://live.1545ts.net/zhibotatv2.html
 
 内蒙古,#genre#
 内蒙古卫视,webview://http://52zb.work/nmg.php?id=nmws
