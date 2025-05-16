@@ -359,7 +359,13 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 南昌新闻综合,webview://https://www.nctv.net.cn/live
 
-长春,#genre#
+吉林,#genre#
+吉林都市,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
+吉林生活,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
+吉林影视,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
+吉林乡村,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
+吉林综艺文化,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
+
 长春综合频道,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
@@ -371,17 +377,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 青岛-4,webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
 青岛-5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛-6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
-
-内蒙古,#genre#
-内蒙古卫视,webview://http://52zb.work/nmg.php?id=nmws
-内蒙古蒙古语卫视,webview://http://52zb.work/nmg.php?id=nmmyws
-内蒙古新闻综合,webview://http://52zb.work/nmg.php?id=nmxwzh
-内蒙古经济生活,webview://http://52zb.work/nmg.php?id=nmjjsh
-内蒙古少儿频道,webview://http://52zb.work/nmg.php?id=nmse
-内蒙古文体娱乐,webview://http://52zb.work/nmg.php?id=nmwtyl
-内蒙古农牧频道,webview://http://52zb.work/nmg.php?id=nmnm
-内蒙古蒙古语文化,webview://http://52zb.work/nmg.php?id=nmwh
-呼和浩特新闻综合,webview://http://52zb.work/nmg.php?id=hhht1
 
 安徽,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
