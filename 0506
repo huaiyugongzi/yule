@@ -309,13 +309,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 襄阳经济生活,webview://https://xiangyang.cjyun.org/app/streamradio/138
 襄阳综合,webview://https://xiangyang.cjyun.org/app/streamradio/142
 襄阳公共,webview://https://xiangyang.cjyun.org/app/streamradio/130
-十堰新闻,webview://https://www.syiptv.com/tv?station_id=1
-十堰经济旅游,webview://https://www.syiptv.com/tv?station_id=3
-十堰新闻,webview://http://52zb.online/xzb/sytv.php?id=1
-十堰经济旅游,webview://http://52zb.online/xzb/sytv.php?id=3
-荆门新闻综合,webview://https://www.jmtv.com.cn/folder48/folder50/folder62
-孝感综合,webview://https://share.xgrb.cn/live_detail?newsid=25009136_xgrb
-孝感生活,webview://https://share.xgrb.cn/live_detail?newsid=25009684_xgrb
 
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
@@ -352,8 +345,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
 
-江西,#genre#
-江西卫视,webview://https://www.jxntv.cn/live/#/
+南昌,#genre#
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
 南昌文旅,webview://https://www.nctv.net.cn/live?channel=2
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
@@ -437,24 +429,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
 长沙新闻,webview://https://web.guangdianyun.tv/tv/?id=346&uin=1648
 长沙政法,webview://https://live.mgtv.com/?channelId=254
-株洲新闻综合,webview://https://web.guangdianyun.tv/tv/2053?uin=1366
-湘潭,webview://http://www.hnxttv.com/live/ivideo/index.html
-常德1,webview://http://zzwxht.changdejia.com/zhibo_xwzh.php
-常德2,webview://http://zzwxht.changdejia.com/zhibo_ggpd.php
-邵阳1,webview://http://www.sytv.net.cn/folder2188/folder2190
-邵阳2,webview://http://share.sytv.net.cn/?_hgOutLink=live/livedetail&channel_id=34
-娄底1,webview://http://www.ldntv.cn/folder51/folder154/folder171
-郴州1,webview://https://www.ngcz.tv/folder83/folder86
-郴州2,webview://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
-
-青海,#genre#
-青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
-青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
-青海都市,webview://https://www.qhbtv.com/new_index/live/folder2648/
-
-云南,#genre#
-云南娱乐,webview://https://tvlive.yntv.cn/live/yunnanyule/chunks_dvr_range-1747398000-4080.m3u8?wsSecret=fa847d6e846a2967dd4d65ce25f3c470&wsTime=1747398275
-云南少儿,webview://https://tvlive.yntv.cn/live/yunnanshaoer/chunks_dvr_range-1747397520-1380.m3u8?wsSecret=5a06b69acf76d55ab1272e3b1b03d39a&wsTime=1747398376
 
 西藏,#genre#
 西藏卫视,webview://http://php.jdshipin.com:8880/xztv.php?id=ws
