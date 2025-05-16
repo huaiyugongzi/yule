@@ -264,15 +264,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
 
-江苏频道,#genre#
-江苏卫视,webview://https://live.jstv.com/?channelId=534
-江苏城市,webview://https://live.jstv.com/?channelId=535
-江苏综艺,webview://https://live.jstv.com/?channelId=556
-江苏影视,webview://https://live.jstv.com/?channelId=542
-江苏新闻,webview://https://live.jstv.com/?channelId=536
-江苏教育,webview://https://live.jstv.com/?channelId=545
-江苏体育,webview://https://live.jstv.com/?channelId=537
-
 浙江,#genre#
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 浙江钱江,webview://https://www.cztv.com/liveTV/102
@@ -368,10 +359,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
 南昌新闻综合,webview://https://www.nctv.net.cn/live
 
-河南,#genre#
-河南都市,webview://https://www.hntv2.net/index.html#/pages/tv/index
-郑州教育,webview://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
-
 长春,#genre#
 长春综合频道,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
@@ -428,19 +415,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 贵阳-3,webview://https://web.guangdianyun.tv/tv/3400?uin=4263
 遵义电视台,webview://https://movement.gzstv.com/streams/videolive/78
 
-
-黑龙江,#genre#
-黑龙江卫视,webview://https://www.hljtv.com/live/folder418/
-黑龙江文体,webview://https://www.hljtv.com/live/folder423/
-黑龙江影视,webview://https://www.hljtv.com/live/folder425/
-黑龙江新闻法治,webview://https://www.hljtv.com/live/folder424/
-黑龙江都市,webview://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,webview://https://www.hljtv.com/live/folder420/
-黑龙江少儿,webview://https://www.hljtv.com/live/folder422/
-哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
-哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
-哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
-
 桂林,#genre#
 桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
 桂林2,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
@@ -477,13 +451,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 娄底1,webview://http://www.ldntv.cn/folder51/folder154/folder171
 郴州1,webview://https://www.ngcz.tv/folder83/folder86
 郴州2,webview://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
-
-
-银川,#genre#
-银川公共,webview://https://www.ycen.com.cn/zzgn/zhibo/
-银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
-银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
-银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132
 
 青海,#genre#
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
