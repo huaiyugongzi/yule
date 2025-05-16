@@ -452,6 +452,10 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 青海经视,webview://https://www.qhbtv.com/new_index/live/folder2647/
 青海都市,webview://https://www.qhbtv.com/new_index/live/folder2648/
 
+云南,#genre#
+云南娱乐,webview://https://tvlive.yntv.cn/live/yunnanyule/chunks_dvr_range-1747398000-4080.m3u8?wsSecret=fa847d6e846a2967dd4d65ce25f3c470&wsTime=1747398275
+云南少儿,webview://https://tvlive.yntv.cn/live/yunnanshaoer/chunks_dvr_range-1747397520-1380.m3u8?wsSecret=5a06b69acf76d55ab1272e3b1b03d39a&wsTime=1747398376
+
 西藏,#genre#
 西藏卫视,webview://http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏藏语,webview://http://php.jdshipin.com:8880/xztv.php?id=zy
