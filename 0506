@@ -285,11 +285,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 宁波-2,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
 宁波-3,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
 宁波-4,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
-绍兴公共频道,webview://https://www.shaoxing.com.cn/app/tv/78
-绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/74
-绍兴文化影视,webview://http://www.shaoxing.com.cn/app/tv/75
-台州温岭新闻,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
-安吉新闻综合,webview://https://web.guangdianyun.tv/tv/?id=1499&uin=1253
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -343,12 +338,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 南昌新闻综合,webview://https://www.nctv.net.cn/live
 
 吉林,#genre#
-吉林都市,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
-吉林生活,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
-吉林影视,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
-吉林乡村,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
-吉林综艺文化,webview://https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8?txSecret=b9047b461dadc7be32ca7edc2bc84608&txTime=6827645F
-
 长春综合频道,webview://https://chinactv.com/live/1442880654565093377.html
 长春文旅体育,webview://https://chinactv.com/live/1442880767035355137.html
 长春市民生活,webview://https://chinactv.com/live/1442880854423678977.html
@@ -384,15 +373,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
 桂林2,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
 桂林3,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
-
-海南,#genre#
-海南卫视,webview://http://tc.hnntv.cn/
-三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
-海南新闻,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=3&referPage=home
-海南公共,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=4&referPage=home
-海南文旅,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
-海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
-海南自贸,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
 
 福建,#genre#
 福建新闻,webview://https://live.fjtv.net/xwpd/
