@@ -208,13 +208,13 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 南国都市,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003
 
 深圳,#genre#
-深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
-深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
-深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
+深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
+深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
+深圳财经,video://https://www.sztv.com.cn/pindao/index.html?id=7871
+深圳少儿,video://https://www.sztv.com.cn/pindao/index.html?id=7881
+深圳移动,video://https://www.sztv.com.cn/pindao/index.html?id=7869
+深圳国际,video://https://www.sztv.com.cn/pindao/index.html?id=7944
 
 香港,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
