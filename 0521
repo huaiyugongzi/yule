@@ -12,6 +12,7 @@ CCTV6,video://https://m.1905.com/m/cctv6/gzh/?home
 CCTV6,webview://https://yangshipin.cn/tv/home?pid=600108442
 CCTV6,webview://https://tv.cctv.com/live/cctv6/
 CCTV7,webview://https://tv.cctv.com/live/cctv7/
+CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
 CCTV8,webview://https://tv.cctv.com/live/cctv8/
 CCTV9,webview://https://tv.cctv.com/live/cctvjilu/
 CCTV10,webview://https://tv.cctv.com/live/cctv10/
@@ -36,7 +37,7 @@ CCTV5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV5+,webview://https://yangshipin.cn/tv/home?pid=600001817
 
 CCTV7,webview://https://yangshipin.cn/tv/home?pid=600004092
-CCTV8,webview://https://yangshipin.cn/tv/home?pid=600001803
+
 CCTV9,webview://https://yangshipin.cn/tv/home?pid=600004078
 CCTV10,webview://https://yangshipin.cn/tv/home?pid=600001805
 CCTV11,webview://https://yangshipin.cn/tv/home?pid=600001806
@@ -338,7 +339,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
 
-山东频道,#genre#
+山东,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/
 山东新闻,video://https://v.iqilu.com/live/ggpd/
 山东齐鲁,video://https://v.iqilu.com/live/qlpd/
