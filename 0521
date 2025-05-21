@@ -196,7 +196,6 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 
 广州,#genre#
 广州新闻,video://https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=688d3b2a3c444bda1e92b3c6f6f53923&txTime=19554f57c80
@@ -217,13 +216,13 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/1
 南国都市,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003
 
 深圳,#genre#
-深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
-深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
-深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
-深圳财经,video://https://www.sztv.com.cn/pindao/index.html?id=7871
-深圳少儿,video://https://www.sztv.com.cn/pindao/index.html?id=7881
-深圳移动,video://https://www.sztv.com.cn/pindao/index.html?id=7869
-深圳国际,video://https://www.sztv.com.cn/pindao/index.html?id=7944
+深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
+深圳都市,webview://https://www.sztv.com.cn/pindao/index.html?id=7868
+深圳电视剧,webview://https://www.sztv.com.cn/pindao/index.html?id=7880
+深圳财经,webview://https://www.sztv.com.cn/pindao/index.html?id=7871
+深圳少儿,webview://https://www.sztv.com.cn/pindao/index.html?id=7881
+深圳移动,webview://https://www.sztv.com.cn/pindao/index.html?id=7869
+深圳国际,webview://https://www.sztv.com.cn/pindao/index.html?id=7944
 
 香港,#genre#
 凤凰卫视中文台,webview://https://m.456iptv.com/?act=play&token=6bac0244f214ec31ea4dab4cd5ca40fc&tid=gt&id=1
@@ -263,15 +262,15 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 
 四川,#genre#
-四川科教频道,webview://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
-乐山新闻,webview://http://www.lstv.org.cn/cms/tv/28
-成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
-成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
-成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
-成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html
-成都公共,webview://https://www.cditv.cn/show/4845-559.html
-成都少儿,webview://https://www.cditv.cn/show/4845-558.html
-蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
+四川科教频道,video://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
+乐山新闻,video://http://www.lstv.org.cn/cms/tv/28
+成都新闻综合,video://https://www.cditv.cn/show/4845-563.html
+成都经济资讯,video://https://www.cditv.cn/show/4845-562.html
+成都都市生活,video://https://www.cditv.cn/show/4845-561.html
+成都影视文艺,video://https://www.cditv.cn/show/4845-560.html
+成都公共,video://https://www.cditv.cn/show/4845-559.html
+成都少儿,video://https://www.cditv.cn/show/4845-558.html
+蓉城先锋,video://https://www.cditv.cn/show/4845-592.html
 
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
