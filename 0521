@@ -47,23 +47,6 @@ CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
 
-数字频道,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
-中经电视,video://http://yun.ce.cn/mobile/
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
-北京纪实8K,video://https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-重温经典,video://https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
-第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
-
-CCTV1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
-CCTV2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
-CCTV4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
-CCTV6,webview://https://m.1905.com/m/cctv6/gzh/?home
-CCTV13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-
 CCTV1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
@@ -74,8 +57,17 @@ CCTV10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
 CCTV11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
 CCTV12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
 CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-CCTV16-4K,webview://https://www.yangshipin.cn/tv/home?pid=600099502
 
+数字,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://mtw.so/5NPX0U
+中经电视,video://http://yun.ce.cn/mobile/
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
+北京纪实8K,video://https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+重温经典,video://https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
@@ -176,8 +168,7 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 
-
-广东荔枝台,#genre#
+广东,#genre#
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -319,7 +310,6 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 浙江新闻,webview://https://www.cztv.com/liveTV/107
 浙江少儿,webview://https://www.cztv.com/liveTV/108
 浙江国际,webview://https://www.cztv.com/liveTV/110
-浙江好易购,webview://https://www.cztv.com/liveTV/111
 浙江之江纪录,webview://https://www.cztv.com/liveTV/112
 杭州综合,webview://https://tv.hoolo.tv/hzzh/
 西湖明珠,webview://https://tv.hoolo.tv/xhmz/
@@ -362,7 +352,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 山东齐鲁,video://https://v.iqilu.com/live/qlpd/index.html
 山东新闻,video://https://v.iqilu.com/live/ggpd/index.html
 山东综艺,video://https://v.iqilu.com/live/zypd/index.html
-山东体育休闲,video://https://v.iqilu.com/live/typd/index.html
+山东体育,video://https://v.iqilu.com/live/typd/index.html
 山东农科,video://https://v.iqilu.com/live/nkpd/index.html
 山东少儿,video://https://v.iqilu.com/live/sepd/index.html
 山东生活,video://https://v.iqilu.com/live/shpd/index.html
@@ -480,9 +470,9 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 
 西藏,#genre#
-西藏卫视,webview://http://php.jdshipin.com:8880/xztv.php?id=ws
-西藏藏语,webview://http://php.jdshipin.com:8880/xztv.php?id=zy
-西藏文化影视,webview://http://php.jdshipin.com:8880/xztv.php?id=ys
+西藏卫视,video://http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏藏语,video://http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏文化影视,video://http://php.jdshipin.com:8880/xztv.php?id=ys
 
 新疆,#genre#
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=1
