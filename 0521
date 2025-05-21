@@ -367,27 +367,35 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 新纪实,webview://https://live.kankanews.com/huikan?id=12
 
 河北,#genre#
-河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
-河北农民,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
-河北都市,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
-河北影视剧,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
-河北少儿,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
-河北文旅公共,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
+河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+农民频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+河北都市,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+河北影视剧,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+河北少儿科教,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+河北文旅公共,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 石家庄新闻综合,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=4
 石家庄城市服务,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
 石家庄文化娱乐,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
 石家庄都市,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
 
 黑龙江,#genre#
-黑龙江卫视,video://https://www.hljtv.com/live/folder418/
+黑龙江卫视,video://https://www.hljtv.com/live/
 黑龙江文体,video://https://www.hljtv.com/live/folder423/
 黑龙江影视,video://https://www.hljtv.com/live/folder425/
 黑龙江新闻法治,video://https://www.hljtv.com/live/folder424/
-黑龙江都市,video://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,video://https://www.hljtv.com/live/folder420/
+黑龙江农林科技,video://https://www.hljtv.com/live/folder419/
 黑龙江少儿,video://https://www.hljtv.com/live/folder422/
-哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨新闻,video://https://www.hrbtv.net/folder79/folder81/
 哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
 哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
 
