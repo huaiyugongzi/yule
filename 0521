@@ -170,6 +170,8 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
 
 广东,#genre#
+韶关综合,video://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
+广东经济,video://http://m.haoqu99.com/3/guangdong/tvs1.html?_refluxos=a10
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
@@ -255,6 +257,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 
 四川,#genre#
 四川科教频道,video://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
+四川乡村,video://http://tv.zimtv.cn/1801.html?ch=jscs
 乐山新闻,video://http://www.lstv.org.cn/cms/tv/28
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
@@ -293,6 +296,8 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
+
+
 
 浙江,#genre#
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
