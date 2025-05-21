@@ -296,9 +296,14 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 广西新闻,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西国际,webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-
-
-
+南宁新闻综合,webview://http://www.nntv.cn/live/nntv_xw/
+南宁文旅生活,webview://http://www.nntv.cn/live/nntv_ds/
+南宁影视娱乐,webview://http://www.nntv.cn/live/nntv_ys/
+南宁公共频道,webview://http://www.nntv.cn/live/nntv_gg/
+桂林1,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
+桂林2,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
+桂林3,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
+​
 浙江,#genre#
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -442,10 +447,10 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 安徽公共,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
 安徽农业科教,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
 安徽移动,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
-合肥新闻,http://A/ku9/js/webhefei.js?id=https://app.hfbtc.cn/shows/2/1.html
-合肥生活,http://A/ku9/js/webhefei.js?id=https://app.hfbtc.cn/shows/2/2.html
-合肥科创,http://A/ku9/js/webhefei.js?id=https://app.hfbtc.cn/shows/2/3.html
-合肥教育法治,http://A/ku9/js/webhefei.js?id=https://app.hfbtc.cn/shows/2/4.html
+合肥新闻,webview://https://app.hfbtc.cn/shows/2/1.html
+合肥生活,webview://https://app.hfbtc.cn/shows/2/2.html
+合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
+合肥教育法治,webview://https://app.hfbtc.cn/shows/2/4.html
 
 贵州,#genre#
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
@@ -456,19 +461,14 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 贵州科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州移动电视,webview://https://www.gzstv.com/tv/ch13
 
-桂林,#genre#
-桂林新闻综合,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=33
-桂林2,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=34
-桂林3,webview://https://guilinbcnew.zainanjing365.com//share/live/detailTv?resourceId=35
-
 福建,#genre#
 福建新闻,webview://https://live.fjtv.net/xwpd/
 福建旅游,webview://https://live.fjtv.net/dspd/
 福建公共,webview://https://live.fjtv.net/ggpd/
 福建经济,webview://https://live.fjtv.net/jspd/
 海峡卫视,webview://https://www.fjtv.net/folder526/folder536/
-宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
-宁德新闻综合,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
+宁德1,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
+宁德2,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
 
 长沙,#genre#
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
