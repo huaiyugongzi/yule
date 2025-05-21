@@ -380,16 +380,16 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 石家庄都市,webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=7
 
 黑龙江,#genre#
-黑龙江卫视,webview://https://www.hljtv.com/live/folder418/
-黑龙江文体,webview://https://www.hljtv.com/live/folder423/
-黑龙江影视,webview://https://www.hljtv.com/live/folder425/
-黑龙江新闻法治,webview://https://www.hljtv.com/live/folder424/
-黑龙江都市,webview://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,webview://https://www.hljtv.com/live/folder420/
-黑龙江少儿,webview://https://www.hljtv.com/live/folder422/
-哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
-哈尔滨生活,webview://https://www.hrbtv.net/folder79/folder85/
-哈尔滨影视,webview://https://www.hrbtv.net/folder79/folder87/
+黑龙江卫视,video://https://www.hljtv.com/live/folder418/
+黑龙江文体,video://https://www.hljtv.com/live/folder423/
+黑龙江影视,video://https://www.hljtv.com/live/folder425/
+黑龙江新闻法治,video://https://www.hljtv.com/live/folder424/
+黑龙江都市,video://https://www.hljtv.com/live/folder419/
+黑龙江农业科教,video://https://www.hljtv.com/live/folder420/
+黑龙江少儿,video://https://www.hljtv.com/live/folder422/
+哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
+哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
+哈尔滨影视,video://https://www.hrbtv.net/folder79/folder87/
 
 南昌,#genre#
 南昌新闻综合,webview://https://www.nctv.net.cn/live?channel=1
@@ -469,9 +469,9 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 乌鲁木齐2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
 
 内蒙古频道,#genre#
-内蒙古卫视,webview://https://www.nmtv.cn/liveTv
-内蒙古新闻,webview://https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙古经济,webview://https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙古少儿,webview://https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙古娱乐,webview://https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙古农牧,webview://https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+内蒙古卫视,video://https://www.nmtv.cn/liveTv
+内蒙古新闻,video://https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+内蒙古经济,video://https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙古少儿,video://https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+内蒙古娱乐,video://https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙古农牧,video://https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
