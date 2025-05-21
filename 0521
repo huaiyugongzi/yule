@@ -272,6 +272,15 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 成都少儿,video://https://www.cditv.cn/show/4845-558.html
 蓉城先锋,video://https://www.cditv.cn/show/4845-592.html
 
+江苏频道,#genre#
+江苏卫视,video://https://live.jstv.com/?channelId=534
+江苏城市,video://https://live.jstv.com/?channelId=535
+江苏综艺,video://https://live.jstv.com/?channelId=556
+江苏影视,video://https://live.jstv.com/?channelId=542
+江苏新闻,video://https://live.jstv.com/?channelId=536
+江苏教育,video://https://live.jstv.com/?channelId=545
+江苏体育,video://https://live.jstv.com/?channelId=537
+
 广西,#genre#
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广西综艺旅游,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
@@ -282,6 +291,14 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 广西移动电视,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
 
 浙江,#genre#
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江卫视,webview://https://www.cztv.com/liveTV/101
 浙江钱江,webview://https://www.cztv.com/liveTV/102
 浙江经济生活,webview://https://www.cztv.com/liveTV/103
@@ -302,6 +319,12 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 宁波-2,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml
 宁波-3,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml
 宁波-4,webview://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
+绍兴新闻综合,video://https://www.shaoxing.com.cn/app/tv/74
+绍兴新闻综合,video://http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴公共,video://https://www.shaoxing.com.cn/app/tv/78
+绍兴公共,video://http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴文化影视,video://https://www.shaoxing.com.cn/app/tv/75
+绍兴文化影视,video://http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 湖北,#genre#
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
@@ -312,6 +335,26 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
+
+山东频道,#genre#
+山东卫视,video://https://v.iqilu.com/live/sdtv/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东齐鲁,video://https://v.iqilu.com/live/qlpd/
+山东体育,video://https://v.iqilu.com/live/typd/
+山东生活,video://https://v.iqilu.com/live/shpd/
+山东综艺,video://https://v.iqilu.com/live/zypd/
+山东农科,video://https://v.iqilu.com/live/nkpd/
+山东文旅,video://https://v.iqilu.com/live/yspd/
+山东少儿,video://https://v.iqilu.com/live/sepd/
+山东卫视,video://https://v.iqilu.com/live/sdtv/index.html
+山东齐鲁,video://https://v.iqilu.com/live/qlpd/index.html
+山东新闻,video://https://v.iqilu.com/live/ggpd/index.html
+山东综艺,video://https://v.iqilu.com/live/zypd/index.html
+山东体育休闲,video://https://v.iqilu.com/live/typd/index.html
+山东农科,video://https://v.iqilu.com/live/nkpd/index.html
+山东少儿,video://https://v.iqilu.com/live/sepd/index.html
+山东生活,video://https://v.iqilu.com/live/shpd/index.html
+山东文旅,video://https://v.iqilu.com/live/yspd/index.html
 
 上海,#genre#
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
