@@ -63,6 +63,7 @@ CCTV13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 中经电视,video://http://yun.ce.cn/mobile/
+每经AI电视,webview://https://www.nbd.com.cn/corp/AiTv/index.html
 国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=4524f29740cb9aa8ff28ff0daf2341e2&wsTime=1736420117
 北京纪实8K,video://https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 重温经典,video://https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -502,3 +503,12 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 内蒙古少儿,video://https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 内蒙古娱乐,video://https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 内蒙古农牧,video://https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+
+宁夏,#genre#
+银川公共,webview://https://www.qukanvideo.com/cloud/h5/1731639141671136
+​银川生活,webview://https://www.qukanvideo.com/cloud/h5/1731638744888001
+​银川文体,webview://https://www.qukanvideo.com/cloud/h5/1728443786945132100
+
+青海,#genre#
+西宁新闻综合,webview://https://www.xntv.tv/xnxwpd
+​西宁生活,webview://https://www.xntv.tv/xnshpd
