@@ -267,7 +267,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 成都公共,webview://https://www.cditv.cn/show/4845-559.html
 成都少儿,webview://https://www.cditv.cn/show/4845-558.html
 蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
-重庆新闻,video://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
+重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
 
 江苏,#genre#
 江苏卫视,video://https://live.jstv.com/?channelId=534
