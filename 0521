@@ -349,6 +349,12 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
 湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
 湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
+云南卫视,http://A/ku9/js/yunnan.js?id=yunnanweishi
+云南都市,http://A/ku9/js/yunnan.js?id=yunnandushi
+云南娱乐,http://A/ku9/js/yunnan.js?id=yunnanyule
+康旅频道,http://A/ku9/js/yunnan.js?id=yunnangonggong
+澜湄国际,http://A/ku9/js/yunnan.js?id=yunnanguoji
+云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
 
 山东,#genre#
 山东卫视,video://https://v.iqilu.com/live/sdtv/
