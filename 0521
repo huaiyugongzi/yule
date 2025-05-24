@@ -571,7 +571,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 青岛-5,webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
 青岛-6,webview://http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
 
-西安,#genre#
+陕西,#genre#
 陕西新闻资讯,http://A/ku9/js/shaanxi2.js?id=1127
 陕西都市青春,http://A/ku9/js/shaanxi2.js?id=1128
 陕西银龄频道,http://A/ku9/js/shaanxi2.js?id=1129
@@ -588,7 +588,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 西安新闻综合,webview://https://v.xiancity.cn/folder8/folder39/folder29/
 西安都市频道,webview://https://v.xiancity.cn/folder8/folder39/folder30/
 西安商务资讯,webview://https://v.xiancity.cn/folder8/folder39/folder31/
-西安影视戏曲频道,webview://https://v.xiancity.cn/folder8/folder39/folder32/
+西安戏曲影视,webview://https://v.xiancity.cn/folder8/folder39/folder32/
 西安丝路频道,webview://https://v.xiancity.cn/folder8/folder39/folder33/
 
 安徽,#genre#
@@ -644,7 +644,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 
 西藏,#genre#
 西藏卫视,video://http://php.jdshipin.com:8880/xztv.php?id=ws
-西藏藏语,video://http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏新闻综合,video://http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,video://http://php.jdshipin.com:8880/xztv.php?id=ys
 西藏新闻综合,http://A/ku9/js/xizang.js?id=1
 西藏影视文化,http://A/ku9/js/xizang.js?id=2
@@ -667,7 +667,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 乌鲁木齐1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
 乌鲁木齐2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
 
-内蒙古频道,#genre#
+内蒙古,#genre#
 内蒙古卫视,video://https://www.nmtv.cn/liveTv
 内蒙古新闻,video://https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙古经济,video://https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
