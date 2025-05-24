@@ -259,6 +259,8 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 
 四川,#genre#
+SCTV1,http://api.vonchange.com/utao/sctv?tag=1
+
 四川科教频道,video://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,video://http://tv.zimtv.cn/1801.html?ch=jscs
 乐山新闻,video://http://www.lstv.org.cn/cms/tv/28
