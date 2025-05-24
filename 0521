@@ -290,18 +290,14 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 武侯电视台,http://A/ku9/js/cdtv.js?id=whtv
 新都电视台,http://A/ku9/js/cdtv.js?id=xdzh
 简阳新闻综合,http://A/ku9/js/cdtv.js?id=jyxwzh
-资阳新闻综合,http://A/ku9/js/anyue.js?id=1
-雁江频道,http://A/ku9/js/anyue.js?id=4
-雁江频道,http://A/ku9/js/anyue.js?id=7
-安岳综合,http://A/ku9/js/anyue.js?id=10
-资阳新闻综合,http://A/ku9/js/anyue.js?id=12
+
 成都新闻综合,webview://https://www.cditv.cn/show/4845-563.html
 成都经济资讯,webview://https://www.cditv.cn/show/4845-562.html
 成都都市生活,webview://https://www.cditv.cn/show/4845-561.html
 成都影视文艺,webview://https://www.cditv.cn/show/4845-560.html
 成都公共,webview://https://www.cditv.cn/show/4845-559.html
 成都少儿,webview://https://www.cditv.cn/show/4845-558.html
-蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
+成都蓉城先锋,webview://https://www.cditv.cn/show/4845-592.html
 重庆新闻,webview://https://sj.cbg.cn/wap/list/4918/1.html?5DEFC70C1A4A0D5173881C62BD4ACAD0
 
 北京,#genre#
