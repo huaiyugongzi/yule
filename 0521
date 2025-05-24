@@ -174,6 +174,10 @@ CETV1,webview://https://www.yangshipin.cn/tv/home?pid=600171827
 韶关综合,video://https://www.sgmsw.cn/mobile/tvinfo?id=SB05RIYZOU8JR418AUQOF62CAJQ08D0E
 广东经济,video://http://m.haoqu99.com/3/guangdong/tvs1.html?_refluxos=a10
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
@@ -192,7 +196,6 @@ GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 
-广州,#genre#
 广州新闻,video://https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=688d3b2a3c444bda1e92b3c6f6f53923&txTime=19554f57c80
 广州综合,video://https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=72c2b03f1958b8f81cb8f557e811b9b0&txTime=195550933b2
 广州法治,video://https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=db2cf40a9fefa5d510ec3f2684d2dcfd&txTime=19554ff6892
@@ -210,7 +213,6 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 广州法治,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3004
 南国都市,webview://https://app.gztv.com/plusshare/#/tvDetail?code=3003
 
-深圳,#genre#
 深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?id=7867
 深圳都市,video://https://www.sztv.com.cn/pindao/index.html?id=7868
 深圳电视剧,video://https://www.sztv.com.cn/pindao/index.html?id=7880
