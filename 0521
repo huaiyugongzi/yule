@@ -380,6 +380,17 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 魔都眼,webview://https://live.kankanews.com/huikan?id=11
 新纪实,webview://https://live.kankanews.com/huikan?id=12
 
+北京卫视,http://A/ku9/js/bjtime.js?id=bjws
+北京文艺,http://A/ku9/js/bjtime.js?id=bjwy
+北京纪实,http://A/ku9/js/bjtime.js?id=bjjs
+北京新闻,http://A/ku9/js/bjtime.js?id=bjxw
+北京体育休闲http://A/ku9/js/bjtime.js?id=bjty
+北京影视,http://A/ku9/js/bjtime.js?id=bjys
+北京财经,http://A/ku9/js/bjtime.js?id=bjcj
+北京生活,http://A/ku9/js/bjtime.js?id=bjsh
+卡酷少儿,http://A/ku9/js/bjtime.js?id=bjkk
+北京8k,http://A/ku9/js/brtv8k.js?id=24
+
 河北,#genre#
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
