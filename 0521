@@ -261,7 +261,16 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 四川,#genre#
 SCTV,video://http://A/ku9/js/SCTV.js?id=3
 SCTV3,video://http://api.vonchange.com/utao/sctv?tag=3
-四川乡村1,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-de57236256534f7814d2203a93d6ccf5
+四川1,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-de57236256534f7814d2203a93d6ccf5
+四川2,https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-8545ee5530f364138abef2b91ec418f7
+四川3,https://tvshow.scgchc.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-c430e12ba8accdc8b3637021a1c6a8e4
+四川4,https://tvshow.scgchc.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-0bf4c57dec524e4bf709c059c89a78ec
+四川5,https://tvshow.scgchc.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-19ffaacff4b1e6516af1f578eb6eebde
+四川6,https://tvshow.scgchc.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-280322e478d82bde7bcc6377270a4040
+四川7,https://tvshow.scgchc.com/hdlive/sctv68f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-f7797333dc2a2c9914e02c712b6aebf4
+四川8,https://tvshow.scgchc.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-fd82d79c64006ac64b64e8682e8db19f
+四川9,https://tvshow.scgchc.com/hdlive/kangba8f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114702-1881382939321516033-0-82590282ff22559de2cd6dee83bb60f0
+
 
 四川科教频道,video://http://www.sctv-8.com.cn/_iframe/iframe_mp4.aspx?iid=637730502807234776
 四川乡村,video://http://tv.zimtv.cn/1801.html?ch=jscs
