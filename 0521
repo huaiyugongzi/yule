@@ -572,7 +572,21 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 宁德1,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=41
 宁德2,webview://http://share.nddst.com/?_hgOutLink=live/livedetail&channel_id=42
 
-长沙,#genre#
+湖南,#genre#
+湖南娱乐,http://A/ku9/js/hunan.js?id=hnyl&key=关注公共号❤：AI科技生活
+湖南电影,http://A/ku9/js/hunan.js?id=hndy&key=关注公共号❤：AI科技生活
+湖南都市,http://A/ku9/js/hunan.js?id=hnds&key=关注公共号❤：AI科技生活
+湖南电视剧,http://A/ku9/js/hunan.js?id=hndsj&key=关注公共号❤：AI科技生活
+湖南公共,http://A/ku9/js/hunan.js?id=hngg&key=关注公共号❤：AI科技生活
+湖南国际,http://A/ku9/js/hunan.js?id=hngj&key=关注公共号❤：AI科技生活
+金鹰纪实,http://A/ku9/js/hunan.js?id=jyjs&key=关注公共号❤：AI科技生活
+金鹰卡通,http://A/ku9/js/hunan.js?id=jykt&key=关注公共号❤：AI科技生活
+先锋乒羽,http://A/ku9/js/hunan.js?id=xfpy&key=关注公共号❤：AI科技生活
+快乐垂钓,http://A/ku9/js/hunan.js?id=klcd&key=关注公共号❤：AI科技生活
+茶频道,http://A/ku9/js/hunan.js?id=cpd&key=关注公共号❤：AI科技生活
+长沙新闻综合,http://A/ku9/js/hunan.js?id=csxwzh&key=关注公共号❤：AI科技生活
+长沙政法频道,http://A/ku9/js/hunan.js?id=cszfpd&key=关注公共号❤：AI科技生活
+长沙女性频道,http://A/ku9/js/hunan.js?id=csnxpd&key=关注公共号❤：AI科技生活
 长沙新闻,webview://https://live.mgtv.com/?channelId=269
 长沙新闻,webview://https://web.guangdianyun.tv/tv/?id=346&uin=1648
 长沙政法,webview://https://live.mgtv.com/?channelId=254
