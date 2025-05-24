@@ -259,7 +259,7 @@ TVBS HD,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97
 爱尔达体育4台,webview://http://m.345iptv.com/?act=play&token=2f49d64294c642a0bdb87271caa1929d&tid=gt&id=82
 
 四川,#genre#
-SCTV,webview://http://A/ku9/js/SCTV.js?id=3
+SCTV,webview://http://A/ku9/js/SCTV.js?tag=3
 SCTV3,webview://http://api.vonchange.com/utao/sctv?tag=3
 四川1,https://tvshow.scgchc.com/hdlive/sctv18f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-de57236256534f7814d2203a93d6ccf5
 四川2,https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1748114701-1881382939321516033-0-8545ee5530f364138abef2b91ec418f7
