@@ -653,6 +653,10 @@ TVBS,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4
 新疆10套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆11套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆12套,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+乌鲁木齐汉语,http://A/ku9/js/wlmq.js?id=hy
+乌鲁木齐维语,http://A/ku9/js/wlmq.js?id=wy
+乌鲁木齐汉语,video://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=17
+乌鲁木齐维语,video://https://hsynew.hongshannet.cn/application/tvradio/h5/detail.html?type=tv&id=21
 乌鲁木齐1,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=6&page=canvas&live_type=1
 乌鲁木齐2,webview://https://st-app.xjmty.com/video/videojs/index?site_id=10141&id=5&page=canvas&live_type=1
 
