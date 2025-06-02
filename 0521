@@ -427,6 +427,19 @@ TVBS,webview://http://m.345iptv.com/?act=play&token=c11f175af8301f5765dee3d97de4
 云南少儿,http://A/ku9/js/yunnan.js?id=yunnanshaoer
 
 山西,#genre#
+山西卫视,http://A/ku9/js/shanxi0602.js?id=sxws
+山西经济,http://A/ku9/js/shanxi0602.js?id=sxjj
+山西影视,http://A/ku9/js/shanxi0602.js?id=sxys
+山西社会与法治,http://A/ku9/js/shanxi0602.js?id=sxfz
+山西文体生活,http://A/ku9/js/shanxi0602.js?id=sxwt
+山西黄河,http://A/ku9/js/shanxi0602.js?id=sxhh
+山西汾阳,http://A/ku9/js/shanxi0602.js?id=fenyang
+大同综合,http://A/ku9/js/shanxi0602.js?id=dtzh
+大同公共,http://A/ku9/js/shanxi0602.js?id=dtgg
+大同生活,http://A/ku9/js/shanxi0602.js?id=dtsh
+阳泉综合,http://A/ku9/js/shanxi0602.js?id=yqzh
+阳泉科教,http://A/ku9/js/shanxi0602.js?id=yqkj
+
 山西卫视,http://A/ku9/js/shanxi0530.js?id=sxws
 山西经济,http://A/ku9/js/shanxi0530.js?id=sxjj
 山西影视,http://A/ku9/js/shanxi0530.js?id=sxys
